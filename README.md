@@ -5,3 +5,6 @@
   &nbsp;&nbsp;
   <a href="https://researchmap.jp/takeshi-kojima"><img height="20" src="https://researchmap.jp/img/logo_small.gif?1684478673" /></a>
 </p>
+
+## 趣味開発
+* [md-slide.js](https://kjmtks.github.io/md-slide-js/)
