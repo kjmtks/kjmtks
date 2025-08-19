@@ -7,6 +7,3 @@
 </p>
 
 ---
-
-## 趣味開発
-* [md-slide.js](https://kjmtks.github.io/md-slide-js/)
